@@ -32,7 +32,7 @@ function generatePassword(length, includeUppercase, includeNumbers, includeSymbo
 }
 
 // Password options
-const passwordLength = 12;
+const passwordLength = 30; // Length of the password
 const includeUppercase = true;
 const includeNumbers = true;
 const includeSymbols = true;
